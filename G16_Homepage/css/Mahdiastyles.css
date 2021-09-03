@@ -1,0 +1,58 @@
+:root{
+  --my-bs-primary: #20B2AA;
+  --my-bs-primary-rgb: 32, 178, 170;
+}
+
+.my-bg-primary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--my-bs-primary-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.my-text-primary {
+  --bs-text-opacity: 1;
+  color: rgba(var(--my-bs-primary-rgb), var(--bs-text-opacity)) !important;
+}
+
+
+
+.my-social-icon:hover {
+  background-color: #20B2AA;
+}
+
+.btn-primary {
+  color: #000;
+  background-color: #20B2AA;
+  border-color: #20B2AA;
+}
+
+.my-btn-primary:hover {
+  color: #000;
+  background-color: #20B2AA;
+  border-color: #20B2AA;
+}
+
+
+.text-color{
+  color: #20B2AA;
+}
+
+.text-color:hover {
+  color: #343A40;
+}
+
+.socials .socials:hover {
+  background-color: #495057;
+}
+
+.socials .socials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem !important;
+  width: 3.5rem !important;
+  background-color: #20B2AA;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
