@@ -102,6 +102,29 @@ hr:not([size]) {
   height: 0.125rem;
 }
 
+/*added code*/
+.transparent_btn {
+	display: inline-block;
+	padding: 10px 14px;
+	color: #FFF;
+	border: 1px solid #FFF;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 120%;
+	background-color: rgba(255,255,255, 0);
+	-webkit-transition: background-color 300ms ease;
+	-moz-transition: background-color 300ms ease;
+	transition: background-color 300ms ease;
+	cursor: pointer,touch;
+}
+.transparent_btn:hover {
+	background-color: rgba(255,255,255, 0.3);
+	color: #FFF;
+}
+
+
+/*added code*/
+
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
@@ -11520,4 +11543,3 @@ figcaption {
   text-align: center;
   font-size: 20px;
 }
-
