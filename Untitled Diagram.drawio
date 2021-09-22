@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T23:42:40.143Z" agent="5.0 (Windows)" etag="c0HzpUpzN5qGdGAl4XHw" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T23:45:30.006Z" agent="5.0 (Windows)" etag="6J9h9ZvlMcPwRo_vuGsc" version="15.2.9" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1209" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="aDjlyof0GRSkCu4bKaut-27" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDjlyof0GRSkCu4bKaut-32" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=4;" edge="1" parent="1" source="aDjlyof0GRSkCu4bKaut-29" target="aDjlyof0GRSkCu4bKaut-31">
+        <mxCell id="aDjlyof0GRSkCu4bKaut-32" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="aDjlyof0GRSkCu4bKaut-29" target="aDjlyof0GRSkCu4bKaut-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="490" as="sourcePoint" />
           </mxGeometry>
@@ -113,7 +113,7 @@
         <mxCell id="aDjlyof0GRSkCu4bKaut-37" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="aDjlyof0GRSkCu4bKaut-31" target="aDjlyof0GRSkCu4bKaut-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aDjlyof0GRSkCu4bKaut-31" value="Employee" style="whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="aDjlyof0GRSkCu4bKaut-31" value="Employee" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDjlyof0GRSkCu4bKaut-34" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
